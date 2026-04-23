@@ -1,0 +1,3 @@
+This folder previously contained a Streamlit dashboard.
+It has been replaced by a React frontend in ../frontend/.
+This folder can be safely deleted.

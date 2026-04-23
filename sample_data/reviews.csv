@@ -1,0 +1,41 @@
+review_text,timestamp,product_id,reviewer_id
+"Battery drains in just 2 hours. Very disappointing for this price range.",2026-03-01 10:00:00,PHONE-X100,user_001
+"Excellent camera quality! Photos come out sharp even in low light.",2026-03-01 11:30:00,PHONE-X100,user_002
+"The packaging was terrible — box was crushed and phone had scratches.",2026-03-02 09:00:00,PHONE-X100,user_003
+"Fast delivery, received within 2 days. Very happy with the service.",2026-03-02 14:00:00,PHONE-X100,user_004
+"Display is amazing, AMOLED screen with vibrant colors. Love it!",2026-03-03 08:00:00,PHONE-X100,user_005
+"Battery life is terrible. Doesn't even last half a day with normal use.",2026-03-03 16:00:00,PHONE-X100,user_006
+"Bahut accha phone hai, camera zabardast hai!",2026-03-04 10:00:00,PHONE-X100,user_007
+"The software is full of bloatware. Too many pre-installed apps.",2026-03-04 12:00:00,PHONE-X100,user_008
+"Yeah right, 'great' battery life — dead by lunchtime every day.",2026-03-05 09:00:00,PHONE-X100,user_009
+"Sound quality is good for the price. Bass could be better though.",2026-03-05 11:00:00,PHONE-X100,user_010
+"Packaging was damaged again! Second time ordering and same issue.",2026-03-06 08:30:00,PHONE-X100,user_011
+"Good build quality, feels premium. The metal body is sturdy.",2026-03-06 15:00:00,PHONE-X100,user_012
+"Customer service is the worst. Waited 3 weeks for a response.",2026-03-07 10:00:00,PHONE-X100,user_013
+"Delivery was delayed by 10 days. Very frustrating experience.",2026-03-07 14:00:00,PHONE-X100,user_014
+"Camera is not bad, but not great either. Average for this price.",2026-03-08 09:00:00,PHONE-X100,user_015
+"AMAZING PHONE!!! BEST PURCHASE EVER!!! BUY NOW!!! 5 STARS!!!",2026-03-08 12:00:00,PHONE-X100,user_spam1
+"AMAZING PHONE!!! BEST PURCHASE EVER!!! BUY NOW!!! 5 STARS!!!",2026-03-08 12:01:00,PHONE-X100,user_spam2
+"AMAZING PHONE!!! BEST PURCHASE EVER!!! BUY NOW!!! 5 STARS!!!",2026-03-08 12:02:00,PHONE-X100,user_spam3
+"AMAZING PHONE!!! BEST PURCHASE EVER!!! BUY NOW!!! 5 STARS!!!",2026-03-08 12:03:00,PHONE-X100,user_spam4
+"Packaging issue has gotten worse. My last 3 orders arrived damaged.",2026-03-09 08:00:00,PHONE-X100,user_016
+"Battery charge takes too long and drains fast. Not worth the money.",2026-03-09 11:00:00,PHONE-X100,user_017
+"The display cracked within a week. Very poor quality glass.",2026-03-10 09:00:00,PHONE-X100,user_018
+"Performance is smooth, no lag at all. Great for gaming too.",2026-03-10 14:00:00,PHONE-X100,user_019
+"Price is too high for what you get. Not affordable at all.",2026-03-11 10:00:00,PHONE-X100,user_020
+"Packaging was absolutely awful. Product arrived broken inside the box.",2026-03-11 13:00:00,PHONE-X100,user_021
+"The UI is clean and the software experience is bloat-free.",2026-03-12 09:00:00,PHONE-X100,user_022
+"Battery is the weakest point. Everything else is fine.",2026-03-12 15:00:00,PHONE-X100,user_023
+"Delivery courier was rude and the package was thrown at my door.",2026-03-13 08:00:00,PHONE-X100,user_024
+"Oh great, another phone with 'amazing' battery that dies by noon.",2026-03-13 11:00:00,PHONE-X100,user_025
+"The camera and display are the highlights. Worth buying for those alone.",2026-03-14 10:00:00,PHONE-X100,user_026
+"Packaging complaints aside, the phone itself is decent.",2026-03-14 14:00:00,PHONE-X100,user_027
+"Good good good good good good good",2026-03-14 16:00:00,PHONE-X100,user_spam5
+"Speaker quality is impressive. Loud and clear audio.",2026-03-15 09:00:00,PHONE-X100,user_028
+"Worst customer service experience. Nobody picks up the helpline.",2026-03-15 12:00:00,PHONE-X100,user_029
+"Paisa vasool phone! Value for money if you ignore the battery.",2026-03-15 15:00:00,PHONE-X100,user_030
+"The phone is fast but the battery is a dealbreaker.",2026-03-16 10:00:00,PHONE-X100,user_031
+"Packaging damage is becoming a pattern. Please fix your logistics!",2026-03-16 13:00:00,PHONE-X100,user_032
+"Camera zoom is useless. Digital zoom at this price? Disappointing.",2026-03-17 09:00:00,PHONE-X100,user_033
+"Build quality feels cheap. Plastic back scratches easily.",2026-03-17 14:00:00,PHONE-X100,user_034
+"Software updates are slow. Still on last year's Android version.",2026-03-18 10:00:00,PHONE-X100,user_035

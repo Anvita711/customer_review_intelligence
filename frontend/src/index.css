@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 3px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-xl border border-slate-200 bg-white shadow-sm;
+  }
+  .card-header {
+    @apply border-b border-slate-100 px-6 py-4;
+  }
+  .card-body {
+    @apply px-6 py-5;
+  }
+  .badge {
+    @apply inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-semibold;
+  }
+  .badge-critical {
+    @apply bg-red-100 text-red-800;
+  }
+  .badge-high {
+    @apply bg-orange-100 text-orange-800;
+  }
+  .badge-medium {
+    @apply bg-amber-100 text-amber-800;
+  }
+  .badge-low {
+    @apply bg-emerald-100 text-emerald-800;
+  }
+  .badge-positive {
+    @apply bg-emerald-50 text-emerald-700;
+  }
+  .badge-negative {
+    @apply bg-red-50 text-red-700;
+  }
+  .badge-neutral {
+    @apply bg-slate-100 text-slate-600;
+  }
+  .badge-mixed {
+    @apply bg-purple-50 text-purple-700;
+  }
+  .badge-needs_review {
+    @apply bg-amber-50 text-amber-700;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg bg-indigo-600 px-5 py-2.5
+           text-sm font-semibold text-white shadow-sm transition-all
+           hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500
+           focus:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg border border-slate-300
+           bg-white px-5 py-2.5 text-sm font-semibold text-slate-700 shadow-sm transition-all
+           hover:bg-slate-50 focus:outline-none focus:ring-2 focus:ring-indigo-500
+           focus:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50;
+  }
+}
